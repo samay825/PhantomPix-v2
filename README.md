@@ -91,7 +91,6 @@ Intelligent embedding that adapts to image characteristics:
 
 ## 📋 Requirements
 
-- Python 3.13+ (recommended)
 - Windows 10/11, macOS, or Linux
 - 150MB disk space
 
