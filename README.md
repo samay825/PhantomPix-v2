@@ -7,7 +7,7 @@
 ![PhantomPix Logo](https://img.shields.io/badge/PhantomPix-v2.0-00d4ff?style=for-the-badge&logo=ghost&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.13+-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![PyQt6](https://img.shields.io/badge/PyQt6-6.4+-41cd52?style=for-the-badge&logo=qt&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
 
 **Hide Messages in Plain Sight • Military-Grade Encryption • Advanced Covert Operations**
 
